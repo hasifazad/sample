@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.navbar {
+    background-color: aqua;
+
+    display: flex;
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 20px;
+}
+
+.logo {}
+
+.menus {}
+
+.menus>ol {
+    
+    display: flex;
+    gap: 30px;
+
+
+}
